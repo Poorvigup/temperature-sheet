@@ -33,12 +33,22 @@ Here’s a step-by-step breakdown of the tasks you'll be performing:<br><br>
 <br>24. Min Temp Difference (Consecutive Days): Calculate the difference in minimum temperatures between two consecutive days for each winter month.
 <br>25. Combined Temp Difference Array: Combine the results from Tasks 23 and 24 to create a single array that stores the difference between the min and max temperatures for each day of all winter months.
 ## 🛠 Technologies Used
-- **Python:** Core language for data analysis.
-<br>- **NumPy:** For array manipulation and performing efficient calculations.
-<br>- **Pandas:** To load and preprocess the Excel data (if needed).
+- **Python:** Core language for data analysis.<br>
+- **NumPy:** For array manipulation and performing efficient calculations.<br>
+- **Pandas:** To load and preprocess the Excel data (if needed).
+## 📊 Results and Insights
+- **November Findings:** Days where minimum temperatures dipped below 8°C and week-wise insights.<br>
+- **Temperature Thresholds:** Weeks in Dec & Jan where temperatures crossed 20°C.<br>
+- **Outlier Detection:** Identified and handled any absurd values in the dataset.<br>
+- **Max Temp Difference:** Differences in max temperatures for consecutive days in the winter months.<br>
+- **Converted Data:** Data converted from Celsius to Fahrenheit for international audiences.<br>
+## 🛠 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request to improve the analysis or add new functionality.
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out!<br><br>
 
 Poorvi Gupta<br>
 poorviguptacom@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/poorvi-gupta-a817032a0<br>
+## 
+Thank you for checking out this project! Let’s dive deep into the temperature trends of Jaipur’s winter season! ❄️🌡️
