@@ -7,8 +7,8 @@ We have a dataset in the form of an Excel sheet that records daily temperature v
 ## 🎯 Tasks
 Here’s a step-by-step breakdown of the tasks you'll be performing:<br><br>
 
-1. Data Representation: Load the Excel data and represent it as a NumPy array for easier manipulation.<br>
-2. Array Dimensions & Shape: Print the dimensions and shape of the NumPy array.
+<br>1. Data Representation: Load the Excel data and represent it as a NumPy array for easier manipulation.
+<br>2. Array Dimensions & Shape: Print the dimensions and shape of the NumPy array.
 <br>3. First Week Temperatures: Print the daily temperatures for the first week of each month.
 <br>4. Tuesday Temperatures: Extract and print the temperatures for Tuesdays of each month.
 <br>5. Max Temps in Dec & Feb: Print only the maximum temperatures for all weekdays in December and February.
